@@ -1,0 +1,16 @@
+{
+  "name": "Оффициальный сайт SHAMAN2016",
+  "short_name": "Сайт SHAMAN2016",
+  "description": "Оффициальный сайт SHAMAN2016",
+  "start_url": "https://shaman2016scratch.github.io/shaman2016.github.io/",
+  "icons": [
+ {
+      "src": "shaman2016.github.io/files/favicon.jpg",
+      "sizes": "120x120",
+      "type": "image/jpg"
+    }
+  ],
+  "theme_color": "#ffd900",
+  "background_color": "#ffffff",
+  "display": "standalone"
+}
